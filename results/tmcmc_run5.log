@@ -1,0 +1,83 @@
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #1
+[Korali] Annealing Exponent:          0.000e+00.
+[Korali] Acceptance Rate (proposals / selections): (100.00% / 45.45%)
+[Korali] Coefficient of Variation: 100.00%
+[Korali] log of accumulated Plausibility Weights: -1.589
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #2
+[Korali] Annealing Exponent:          3.427e-06.
+[Korali] Acceptance Rate (proposals / selections): (85.75% / 58.75%)
+[Korali] Coefficient of Variation: 100.00%
+[Korali] log of accumulated Plausibility Weights: -5.460
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #3
+[Korali] Annealing Exponent:          1.964e-05.
+[Korali] Acceptance Rate (proposals / selections): (81.75% / 55.85%)
+[Korali] Coefficient of Variation: 100.00%
+[Korali] log of accumulated Plausibility Weights: -7.637
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #4
+[Korali] Annealing Exponent:          3.000e-05.
+[Korali] Acceptance Rate (proposals / selections): (66.55% / 50.70%)
+[Korali] Coefficient of Variation: 100.00%
+[Korali] log of accumulated Plausibility Weights: -9.038
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #5
+[Korali] Annealing Exponent:          3.945e-05.
+[Korali] Acceptance Rate (proposals / selections): (42.50% / 46.45%)
+[Korali] Coefficient of Variation: 100.00%
+[Korali] log of accumulated Plausibility Weights: -10.102
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #6
+[Korali] Annealing Exponent:          6.078e-05.
+[Korali] Acceptance Rate (proposals / selections): (49.40% / 45.00%)
+[Korali] Coefficient of Variation: 100.00%
+[Korali] log of accumulated Plausibility Weights: -11.061
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #7
+[Korali] Annealing Exponent:          1.893e-04.
+[Korali] Acceptance Rate (proposals / selections): (25.00% / 46.20%)
+[Korali] Coefficient of Variation: 100.00%
+[Korali] log of accumulated Plausibility Weights: -12.051
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #8
+[Korali] Annealing Exponent:          1.346e-03.
+[Korali] Acceptance Rate (proposals / selections): (9.25% / 47.05%)
+[Korali] Coefficient of Variation: 100.00%
+[Korali] log of accumulated Plausibility Weights: -13.187
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #9
+[Korali] Annealing Exponent:          1.025e-02.
+[Korali] Acceptance Rate (proposals / selections): (3.85% / 47.20%)
+[Korali] Coefficient of Variation: 100.00%
+[Korali] log of accumulated Plausibility Weights: -14.911
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #10
+[Korali] Annealing Exponent:          6.694e-02.
+[Korali] Acceptance Rate (proposals / selections): (1.20% / 46.45%)
+[Korali] Coefficient of Variation: 100.00%
+[Korali] log of accumulated Plausibility Weights: -18.542
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #11
+[Korali] Annealing Exponent:          3.078e-01.
+[Korali] Acceptance Rate (proposals / selections): (1.00% / 56.25%)
+[Korali] Coefficient of Variation: 138.16%
+[Korali] log of accumulated Plausibility Weights: -26.716
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #12
+[Korali] Annealing Exponent:          1.000e+00.
+[Korali] Acceptance Rate (proposals / selections): (1.00% / 62.80%)
+[Korali] Coefficient of Variation: 200.00%
+[Korali] log of accumulated Plausibility Weights: -26.716
+[Korali] --------------------------------------------------------------------
+[Korali] sampler/TMCMC finished correctly.
+[Korali] Termination Criterion Met: TMCMC['Target Annealing Exponent'] = 1.000000.
+[Korali] Final Generation: 12
+[Korali] Elapsed Time: 1214.603s
+
+Posterior samples (2000) saved to apollo_posterior.npy
+Posterior mean +- std:
+  Start of Thrust [rad]       3.28 +- 0.06
+  Parking Altitude [km]     435.73 +- 26.19
+  Extra Speed [m/s]        3067.58 +- 8.61

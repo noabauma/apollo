@@ -1,0 +1,43 @@
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #1
+[Korali] Annealing Exponent:          0.000e+00.
+[Korali] Warning: Min Search did not converge and did not find minimum
+[Korali] Warning: Min Search MaxIter (1000) reached
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000010 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (100.00% / 0.50%)
+[Korali] Coefficient of Variation: 1414.21%
+[Korali] log of accumulated Plausibility Weights: -997.616
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #2
+[Korali] Annealing Exponent:          1.000e-05.
+[Korali] Warning: Min Search did not converge and did not find minimum
+[Korali] Warning: Min Search MaxIter (1000) reached
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000010 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (0.00% / 65.50%)
+[Korali] Coefficient of Variation: 200.00%
+[Korali] log of accumulated Plausibility Weights: -1989.934
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #3
+[Korali] Annealing Exponent:          2.000e-05.
+[Korali] Warning: Min Search did not converge but minimum found
+[Korali] Warning: Min Search MaxIter (1000) reached
+[Korali] Acceptance Rate (proposals / selections): (100.00% / 65.00%)
+[Korali] Coefficient of Variation: 200.00%
+[Korali] log of accumulated Plausibility Weights: -99231788.577
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #4
+[Korali] Annealing Exponent:          1.000e+00.
+[Korali] Acceptance Rate (proposals / selections): (100.00% / 63.50%)
+[Korali] Coefficient of Variation: 200.00%
+[Korali] log of accumulated Plausibility Weights: -99231788.577
+[Korali] --------------------------------------------------------------------
+[Korali] sampler/TMCMC finished correctly.
+[Korali] Termination Criterion Met: TMCMC['Target Annealing Exponent'] = 1.000000.
+[Korali] Final Generation: 4
+[Korali] Elapsed Time: 22.289s
+
+Posterior samples (200) saved to apollo_posterior.npy
+Posterior mean +- std:
+  Start of Thrust [rad]       3.04 +- 0.00
+  Parking Altitude [km]     254.69 +- 0.00
+  Extra Speed [m/s]        3020.12 +- 0.00

@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# per-generation Korali output (13+ MB of JSON per run; the posterior .npy is kept)
+results/_korali_result_apollo/

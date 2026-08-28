@@ -1,0 +1,179 @@
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #1
+[Korali] Annealing Exponent:          0.000e+00.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (100.00% / 61.80%)
+[Korali] Coefficient of Variation: 165.90%
+[Korali] log of accumulated Plausibility Weights: -0.691
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #2
+[Korali] Annealing Exponent:          1.000e-09.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (85.20% / 63.40%)
+[Korali] Coefficient of Variation: 167.90%
+[Korali] log of accumulated Plausibility Weights: -1.278
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #3
+[Korali] Annealing Exponent:          2.000e-09.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (84.40% / 59.80%)
+[Korali] Coefficient of Variation: 172.16%
+[Korali] log of accumulated Plausibility Weights: -1.782
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #4
+[Korali] Annealing Exponent:          3.000e-09.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (85.00% / 63.00%)
+[Korali] Coefficient of Variation: 179.45%
+[Korali] log of accumulated Plausibility Weights: -2.181
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #5
+[Korali] Annealing Exponent:          4.000e-09.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (85.60% / 63.00%)
+[Korali] Coefficient of Variation: 182.19%
+[Korali] log of accumulated Plausibility Weights: -2.543
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #6
+[Korali] Annealing Exponent:          5.000e-09.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (86.60% / 66.40%)
+[Korali] Coefficient of Variation: 187.02%
+[Korali] log of accumulated Plausibility Weights: -2.875
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #7
+[Korali] Annealing Exponent:          6.000e-09.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (81.60% / 60.60%)
+[Korali] Coefficient of Variation: 187.73%
+[Korali] log of accumulated Plausibility Weights: -3.186
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #8
+[Korali] Annealing Exponent:          7.000e-09.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (80.20% / 64.80%)
+[Korali] Coefficient of Variation: 187.05%
+[Korali] log of accumulated Plausibility Weights: -3.481
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #9
+[Korali] Annealing Exponent:          8.000e-09.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (76.20% / 62.80%)
+[Korali] Coefficient of Variation: 188.12%
+[Korali] log of accumulated Plausibility Weights: -3.764
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #10
+[Korali] Annealing Exponent:          9.000e-09.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (74.80% / 63.40%)
+[Korali] Coefficient of Variation: 187.69%
+[Korali] log of accumulated Plausibility Weights: -4.030
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #11
+[Korali] Annealing Exponent:          1.000e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (73.00% / 63.80%)
+[Korali] Coefficient of Variation: 187.64%
+[Korali] log of accumulated Plausibility Weights: -4.281
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #12
+[Korali] Annealing Exponent:          1.100e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (70.80% / 62.00%)
+[Korali] Coefficient of Variation: 187.24%
+[Korali] log of accumulated Plausibility Weights: -4.514
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #13
+[Korali] Annealing Exponent:          1.200e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (68.00% / 63.40%)
+[Korali] Coefficient of Variation: 186.76%
+[Korali] log of accumulated Plausibility Weights: -4.730
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #14
+[Korali] Annealing Exponent:          1.300e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (63.60% / 61.60%)
+[Korali] Coefficient of Variation: 186.52%
+[Korali] log of accumulated Plausibility Weights: -4.935
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #15
+[Korali] Annealing Exponent:          1.400e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (61.80% / 63.20%)
+[Korali] Coefficient of Variation: 186.19%
+[Korali] log of accumulated Plausibility Weights: -5.118
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #16
+[Korali] Annealing Exponent:          1.500e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (55.80% / 62.60%)
+[Korali] Coefficient of Variation: 186.32%
+[Korali] log of accumulated Plausibility Weights: -5.286
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #17
+[Korali] Annealing Exponent:          1.600e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (58.00% / 62.40%)
+[Korali] Coefficient of Variation: 186.72%
+[Korali] log of accumulated Plausibility Weights: -5.444
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #18
+[Korali] Annealing Exponent:          1.700e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (52.20% / 61.00%)
+[Korali] Coefficient of Variation: 187.15%
+[Korali] log of accumulated Plausibility Weights: -5.587
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #19
+[Korali] Annealing Exponent:          1.800e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (47.40% / 64.00%)
+[Korali] Coefficient of Variation: 187.91%
+[Korali] log of accumulated Plausibility Weights: -5.706
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #20
+[Korali] Annealing Exponent:          1.900e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (46.80% / 64.80%)
+[Korali] Coefficient of Variation: 188.78%
+[Korali] log of accumulated Plausibility Weights: -5.811
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #21
+[Korali] Annealing Exponent:          2.000e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (48.20% / 63.60%)
+[Korali] Coefficient of Variation: 189.41%
+[Korali] log of accumulated Plausibility Weights: -5.905
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #22
+[Korali] Annealing Exponent:          2.100e-08.
+[Korali] Warning: Min Search converged but did not find minimum. 
+[Korali] Warning: Annealing Step smaller than Min Rho Update, updating Annealing Exponent by 0.000000 (Min Rho Update). 
+[Korali] Acceptance Rate (proposals / selections): (47.80% / 61.80%)
+[Korali] Coefficient of Variation: 189.99%
+[Korali] log of accumulated Plausibility Weights: -5.990
+[Korali] --------------------------------------------------------------------
+[Korali] Current Generation: #23
+[Korali] Annealing Exponent:          2.200e-08.
